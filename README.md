@@ -1,80 +1,70 @@
 <div align="center">
-  <!-- Header Animasi dengan Efek Twinkling (Error XML Fixed: Menggunakan %2B sebagai pengganti &) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Warkop%20Myhink%20V3&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Enterprise%20Smart%20POS%20%2B%20Multi-AI%20Platform&descAlignY=75&descSize=22" width="100%" alt="Header Animasi" />
+  <!-- Elegant Corporate Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=220&section=header&text=Warkop%20Myhink&fontSize=65&fontColor=ffffff&desc=Enterprise%20F%26B%20Management%20Ecosystem&descAlignY=70&descSize=20&descColor=94A3B8" width="100%" alt="Corporate Header" />
 
-  <!-- Teks Mengetik Otomatis (Typing SVG) -->
+  <br><br>
+
+  <!-- Clean Typing SVG for Value Proposition -->
   <a href="https://warkop.myhink.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&height=50&lines=🚀+Sistem+POS+%2B+ERP+Eksklusif;🤖+Autonomous+Multi-AI+Engine;🏬+Manajemen+Multi-Cabang+Cerdas;📱+Aplikasi+Mobile+Segera+Hadir!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1500&color=3B82F6&center=true&vCenter=true&width=800&height=40&lines=Next-Generation+Point+of+Sale+System;Autonomous+Multi-AI+Business+Intelligence;Scalable+Multi-Branch+Architecture;Redefining+the+F%26B+Digital+Experience" alt="Executive Summary" />
   </a>
 
-  <!-- Tombol Akses Cepat & Status -->
+  <!-- Monochromatic Tech Stack Badges -->
   <p align="center">
-    <a href="https://warkop.myhink.com"><img src="https://img.shields.io/badge/🌐_Website_Resmi-warkop.myhink.com-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-    <img src="https://img.shields.io/badge/🔒_Status-Active_Production-00B86B?style=for-the-badge" alt="Status"/>
-  </p>
-
-  <!-- Pamer Teknologi (Hanya Lencana, Tanpa Kode) -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini AI" />
-    <img src="https://img.shields.io/badge/PWA_Ready-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+    <img src="https://img.shields.io/badge/System-Active_Production-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
+    <img src="https://img.shields.io/badge/Architecture-React_%7C_Node.js-0F172A?style=for-the-badge&logo=react&logoColor=white" alt="Tech Stack" />
+    <img src="https://img.shields.io/badge/AI_Engine-Gemini_%7C_Claude-0F172A?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+    <img src="https://img.shields.io/badge/Infrastructure-PWA_Offline_First-0F172A?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
   </p>
 </div>
 
-<!-- Animasi Garis Pemisah -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+<br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/⚠️_PROPRIETARY_%26_CLOSED_SOURCE-FF0000?style=for-the-badge&logo=databricks&logoColor=white" alt="Proprietary" />
-  <p><b>PEMBERITAHUAN HAK CIPTA & KEKAYAAN INTELEKTUAL</b><br>
-  <i>Repositori ini bersifat tertutup. Arsitektur sistem, algoritma, dan desain UI/UX di dalamnya adalah kekayaan intelektual eksklusif milik <b>Myhink</b>. Dilarang keras menyalin, memodifikasi, mendistribusikan, atau melakukan reverse engineering untuk tujuan komersial maupun kompetisi.</i></p>
-</div>
-
-<!-- Animasi Garis Pemisah -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
-## 📖 Tentang Ekosistem Myhink
-
-**Warkop Myhink V3** bukanlah sekadar aplikasi kasir biasa, melainkan sebuah ekosistem *Point of Sale* (POS), Manajemen Operasional Multi-Cabang, dan Analisis Bisnis Cerdas tingkat *enterprise*. 
-
-Dirancang eksklusif untuk modernisasi F&B Warkop Myhink, platform ini ditenagai oleh mesin **Multi-AI Intelligence** dan arsitektur **Progressive Web App (PWA)** super tangguh yang memastikan operasional tetap berjalan meski tanpa koneksi internet (*Offline-First*).
+> **🔒 PROPRIETARY & CONFIDENTIAL**  
+> Infrastruktur, algoritma sistem, desain antarmuka, dan kode sumber yang mendasari repositori ini adalah kekayaan intelektual eksklusif milik **Myhink**. Dokumen ini dipublikasikan secara terbatas sebagai tinjauan arsitektur (High-Level Overview) dan catatan pembaruan. Dilarang keras melakukan duplikasi, distribusi, atau rekayasa balik (*reverse engineering*) dalam bentuk apa pun.
 
 ---
 
-## ✨ Arsitektur & Fitur Unggulan
+## 📊 Executive Summary
+
+**Warkop Myhink V3** merepresentasikan standar baru dalam digitalisasi operasional *Food & Beverage* (F&B). Dirancang secara eksklusif untuk skala operasional tingkat lanjut, platform ini menggabungkan ketangguhan sistem *Point of Sale* (POS) berkinerja tinggi, manajemen *Enterprise Resource Planning* (ERP) multi-cabang, dan modul analitik bisnis yang ditenagai oleh kecerdasan buatan (*Artificial Intelligence*).
+
+Arsitektur sistem dibangun di atas infrastruktur *Progressive Web App* (PWA) dengan kapabilitas *Offline-First*, memastikan keberlanjutan bisnis tanpa interupsi, bahkan dalam kondisi anomali jaringan.
+
+---
+
+## 🏗️ Core Enterprise Modules
 
 <table align="center">
   <tr>
-    <td width="50%">
-      <h3>🤖 Autonomous Multi-AI Engine</h3>
-      Ditenagai kecerdasan buatan tingkat lanjut (Gemini, Claude, DeepSeek) untuk memberikan:
+    <td width="50%" valign="top">
+      <b>🧠 Autonomous Business Intelligence</b><br>
+      Pemanfaatan model AI global (Gemini, Claude, DeepSeek) untuk otomatisasi wawasan bisnis:
       <ul>
-        <li><b>Barista AI:</b> Meracik rekomendasi menu personal untuk pelanggan.</li>
-        <li><b>Business Insights:</b> Deteksi dini menu <i>deadstock</i> dan proyeksi profit harian secara otomatis.</li>
+        <li><b>Cognitive Barista:</b> Personalisasi rekomendasi menu berbasis profil pelanggan.</li>
+        <li><b>Predictive Analytics:</b> Analisis tren penjualan, deteksi anomali stok, dan proyeksi margin secara otomatis.</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3>⚡ Smart POS & KDS</h3>
-      Eksekusi transaksi tanpa <i>delay</i>:
+    <td width="50%" valign="top">
+      <b>⚡ High-Performance KDS & POS</b><br>
+      Eksekusi transaksi presisi tinggi dengan latensi minimum:
       <ul>
-        <li><b>POS Ultra-Cepat:</b> Kalkulasi otomatis dengan dukungan berbagai metode pembayaran QRIS.</li>
-        <li><b>Kitchen Display (KDS):</b> Sinkronisasi pesanan dapur <i>real-time</i> begitu kasir menekan tombol bayar.</li>
+        <li><b>Frictionless Checkout:</b> Modul kasir adaptif dengan kalkulasi dinamis dan integrasi multi-pembayaran.</li>
+        <li><b>Real-Time Kitchen Sync:</b> Distribusi pesanan ke layar <i>Kitchen Display System</i> (KDS) dalam hitungan milidetik.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🎨 Workspace Customizer</h3>
+    <td width="50%" valign="top">
+      <b>🎨 Dynamic Workspace Management</b><br>
       <ul>
-        <li>Kustomisasi tema warna, logo, dan identitas struk thermal secara dinamis tanpa perlu menyentuh baris kode program.</li>
+        <li>Panel kontrol visual (*no-code*) untuk penyesuaian identitas korporat, konfigurasi struk *thermal*, dan manajemen tata letak sistem cabang.</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3>📶 Offline Resiliency (PWA)</h3>
+    <td width="50%" valign="top">
+      <b>📶 Resilient Offline Architecture</b><br>
       <ul>
-        <li>Sistem kasir dirancang untuk tetap menampung transaksi saat internet terputus, dan otomatis menyinkronkannya kembali ke <i>cloud</i> saat jaringan stabil.</li>
+        <li>Infrastruktur <i>Offline-First</i> berbasis kapabilitas <i>Service Worker</i>. Transaksi diamankan secara lokal dan disinkronisasi ke <i>cloud</i> secara otonom saat konektivitas pulih.</li>
       </ul>
     </td>
   </tr>
@@ -82,82 +72,75 @@ Dirancang eksklusif untuk modernisasi F&B Warkop Myhink, platform ini ditenagai 
 
 ---
 
-## 🔐 Keamanan & Hak Akses (Role-Based)
+## 🔐 Governance & Role-Based Access Control
 
-Infrastruktur ini dilengkapi sistem keamanan berlapis dengan pembatasan hak akses operasional yang presisi:
+Demi menjaga integritas data dan keamanan operasional operasional bisnis, sistem ini menerapkan matriks otorisasi berjenjang (RBAC) yang ketat:
 
-- 👑 **OWNER:** Kendali mutlak, wawasan AI tingkat lanjut, laporan multi-cabang, & kustomisasi platform.
-- 👔 **MANAGER:** Pengelolaan stok bahan baku, manajemen katalog menu, & evaluasi shift staf.
-- 💼 **CASHIER:** Operasional layar POS, penerimaan pembayaran, & manajemen status meja.
-- ☕ **BARISTA / CHEF:** Akses eksklusif antrean layar *Kitchen Display System* (KDS).
-- 📱 **CUSTOMER:** Pemesanan mandiri melalui QR meja & pelacakan status pesanan secara *live*.
+- **[ L1 ] EXECUTIVE (Owner):** Visibilitas penuh terhadap metrik finansial global, kontrol infrastruktur AI, manajemen cabang, dan audit log sistem.
+- **[ L2 ] MANAGEMENT:** Otoritas pengelolaan inventaris logistik, kurasi katalog menu, dan pengawasan performa staf.
+- **[ L3 ] OPERATIONS (Cashier):** Akses fungsionalitas POS utama, manajemen arus kas harian, dan kontrol alokasi meja pelanggan.
+- **[ L4 ] PRODUCTION (Barista/Chef):** Akses terisolasi pada antarmuka KDS untuk manajemen antrean produksi dapur.
+- **[ L5 ] END-USER (Customer):** Akses terbatas untuk pemesanan mandiri via *QR Code*, pelacakan pesanan, dan sistem loyalitas.
 
 ---
 
-## 📸 Cuplikan Antarmuka Sistem
+## 🖥️ System Interface Preview
 
-*(Tampilan aplikasi Warkop Myhink V3 yang sedang beroperasi)*
+*Tinjauan antarmuka operasional (User Interface) yang sedang berjalan di production environment.*
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Smart POS Dashboard</b></td>
+      <td align="center"><b>POS Terminal Interface</b></td>
       <td align="center"><b>Kitchen Display System (KDS)</b></td>
     </tr>
     <tr>
-      <!-- GANTI LINK PLACEHOLDER DI BAWAH INI DENGAN LINK FOTO ASLIMU -->
-      <td><img src="https://via.placeholder.com/450x250/1f2937/F59E0B?text=FOTO+POS+KASIR+DISINI" alt="Dashboard POS" width="450"></td>
-      <td><img src="https://via.placeholder.com/450x250/1f2937/F59E0B?text=FOTO+DAPUR+KDS+DISINI" alt="KDS" width="450"></td>
+      <!-- MASUKKAN LINK SCREENSHOT POS DI BAWAH INI -->
+      <td><img src="https://via.placeholder.com/450x250/0F172A/FFFFFF?text=POS+Terminal+Preview" alt="POS Terminal" width="450"></td>
+      <!-- MASUKKAN LINK SCREENSHOT KDS DI BAWAH INI -->
+      <td><img src="https://via.placeholder.com/450x250/0F172A/FFFFFF?text=Kitchen+Display+Preview" alt="KDS Terminal" width="450"></td>
     </tr>
     <tr>
-      <td align="center"><b>AI Analytics & ERP</b></td>
-      <td align="center"><b>Customer Self-Ordering QR</b></td>
+      <td align="center"><b>AI Analytics Dashboard</b></td>
+      <td align="center"><b>Customer Mobile Interface</b></td>
     </tr>
     <tr>
-      <!-- GANTI LINK PLACEHOLDER DI BAWAH INI DENGAN LINK FOTO ASLIMU -->
-      <td><img src="https://via.placeholder.com/450x250/1f2937/F59E0B?text=FOTO+ANALITIK+AI+DISINI" alt="ERP" width="450"></td>
-      <td><img src="https://via.placeholder.com/450x250/1f2937/F59E0B?text=FOTO+TAMPILAN+HP+PELANGGAN" alt="Mobile View" width="450"></td>
+      <!-- MASUKKAN LINK SCREENSHOT ANALITIK DI BAWAH INI -->
+      <td><img src="https://via.placeholder.com/450x250/0F172A/FFFFFF?text=Analytics+Dashboard+Preview" alt="Analytics Dashboard" width="450"></td>
+      <!-- MASUKKAN LINK SCREENSHOT MOBILE DI BAWAH INI -->
+      <td><img src="https://via.placeholder.com/450x250/0F172A/FFFFFF?text=Mobile+App+Preview" alt="Mobile Interface" width="450"></td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 🚀 Akses Platform
+## 🌐 Live Deployment & Customer Portal
 
-Bagi pengunjung dan pelanggan setia yang ingin melihat menu digital atau memesan layanan kami, silakan kunjungi:
+Platform ini aktif dan melayani transaksi operasional secara nyata. Untuk mencoba pengalaman *end-user* atau meninjau katalog digital, silakan kunjungi portal publik kami:
 
-👉 **[warkop.myhink.com](https://warkop.myhink.com)**
+🔗 **[warkop.myhink.com](https://warkop.myhink.com)**
 
-### 📱 Rilis Aplikasi Mobile (Segera Hadir!)
-<img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/174/174836.png" alt="Android Icon">
-Kami sedang menyiapkan pengalaman pemesanan yang jauh lebih instan! Versi aplikasi <b>Android (APK)</b> Warkop Myhink saat ini dalam tahap penyempurnaan akhir. Tautan unduhan resmi akan dipublikasikan di halaman ini dan di website kami setelah peluncuran.
-
-<br><br>
+### 📱 Ekosistem Mobile App (Tahap Akhir)
+Sebagai perluasan dari pengalaman *omnichannel* kami, aplikasi *native* **Android (APK)** Myhink sedang dalam tahap finalisasi (*Quality Assurance*). Solusi terintegrasi ini akan segera tersedia untuk publik melalui portal utama kami.
 
 ---
 
-## 📫 Kontak & Kerja Sama
+## ✉️ Business Inquiries & Partnerships
 
-Tertarik dengan infrastruktur sistem ini, memiliki penawaran kerja sama, atau pertanyaan teknis terkait bisnis Warkop Myhink? Jangan ragu untuk menghubungi tim pengembang (Developer/Owner) melalui jalur berikut:
+Kami terbuka untuk diskusi terkait potensi kolaborasi strategis, kemitraan B2B, maupun pertanyaan seputar pengembangan infrastruktur teknologi ini. Hubungi representatif kami melalui tautan di bawah ini:
 
 <p align="center">
-  <!-- Tombol Email -->
   <a href="mailto:andrasyailendra280502@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hubungi_Kami-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
+    <img src="https://img.shields.io/badge/Official_Email-andrasyailendra280502@gmail.com-0F172A?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Inquiries" />
   </a>
-  <!-- Tombol GitHub -->
   <a href="https://github.com/andra280502">
-    <img src="https://img.shields.io/badge/Developer-@andra280502-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <!-- Tombol Web -->
-  <a href="https://warkop.myhink.com">
-    <img src="https://img.shields.io/badge/Web-warkop.myhink.com-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website URL" />
+    <img src="https://img.shields.io/badge/Lead_Engineer-Syailendra_Andra_P.-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Lead Engineer" />
   </a>
 </p>
 
----
+<br>
+
 <div align="center">
-  <b>© 2026 Warkop Myhink. Seluruh hak cipta dilindungi undang-undang.</b><br>
-  <i>Infrastruktur eksklusif dikembangkan oleh <a href="https://github.com/andra280502">Syailendra Andra P.</a></i>
+  <p><b>© 2026 Warkop Myhink. Seluruh hak cipta dilindungi undang-undang.</b></p>
 </div>

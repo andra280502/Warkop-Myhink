@@ -47,12 +47,10 @@ Kami sedang menyiapkan kemudahan ekstra! Versi aplikasi **Android (APK)** Warkop
 
 - [📸 Cuplikan Sistem (Project Details)](#-cuplikan-sistem-project-details)
 - [✨ Fitur Unggulan](#-fitur-unggulan)
-- [🏗️ Arsitektur & Struktur Proyek](#️-arsitektur--struktur-proyek)
 - [🤖 Multi-Provider AI Engine](#-multi-provider-ai-engine)
 - [🌐 PWA & Manajemen Sistem / Cache](#-pwa--manajemen-sistem--cache)
 - [🏬 Manajemen Multi-Cabang (Multi-Branch)](#-manajemen-multi-cabang-multi-branch)
-- [🔐 Hak Akses & Akun Demo](#-hak-akses--akun-demo)
-- [📡 Dokumentasi API Utama](#-dokumentasi-api-utama)
+- [🔐 Hak Akses & Akun](#-hak-akses--akun-demo)
 - [⚙️ Konfigurasi & Build (Internal)](#️-konfigurasi--build-internal)
 
 ---
@@ -114,36 +112,6 @@ Kami sedang menyiapkan kemudahan ekstra! Versi aplikasi **Android (APK)** Warkop
 
 ---
 
-## 🏗️ Arsitektur & Struktur Proyek
-
-```text
-Warkop-Myhink/
-├── web-v3/                      # Frontend App (Vite + React + TS)
-│   ├── public/                  # PWA Manifest, Service Worker (sw.js), Ikon & Font
-│   ├── src/
-│   │   ├── components/          # Reusable UI, Modal, Toast, & Layout Widgets
-│   │   ├── features/offline/    # Offline Queue & IndexedDB Sync Engine
-│   │   ├── pages/               # Halaman: POS, Orders, Menu, Settings, Auth, Analytics
-│   │   ├── stores/              # Zustand Stores (authStore, themeStore, cartStore)
-│   │   ├── App.tsx              # Root Layout, Global Socket & Theme Listeners
-│   │   └── main.tsx             # React Entrypoint & PWA Auto-Registration
-│   └── vite.config.ts           # Proxy API, Compression (Gzip/Brotli), & PWA config
-│
-├── server-v3/                   # Backend REST & WebSocket Server (Express + Prisma)
-│   ├── prisma/                  # Schema Data PostgreSQL & Migrations
-│   ├── scripts/                 # Migration & Seed Helper Scripts
-│   ├── src/
-│   │   ├── middleware/          # JWT Authentication, RBAC, & Security Middleware
-│   │   ├── routes/              # Modular API Endpoints (Auth, POS, Settings, AI, Branches)
-│   │   ├── socket.ts            # WebSocket Real-Time Event Hub (Socket.io)
-│   │   └── index.ts             # Server Entrypoint, Security Headers, & Rate Limiters
-│   └── package.json
-│
-└── _archive/v1/                 # Arsip referensi kode legacy V1
-```
-
----
-
 ## 🤖 Multi-Provider AI Engine
 
 Sistem ini mendukung integrasi multi-model AI fleksibel yang dapat diatur langsung oleh Owner di menu **Workspace Settings → Integrasi AI**:
@@ -176,7 +144,7 @@ Sistem mendukung operasi multi-outlet warkop:
 
 ---
 
-## 🔐 Hak Akses & Akun Demo
+## 🔐 Hak Akses & Akun
 
 Sistem menerapkan kontrol akses berbasis peran (*Role-Based Access Control*):
 
@@ -187,69 +155,6 @@ Sistem menerapkan kontrol akses berbasis peran (*Role-Based Access Control*):
 | **💼 CASHIER** | POS kasir, input pesanan, cetak struk pembayaran, status meja |
 | **☕ BARISTA** | Kitchen Display System (KDS), ubah status antrean pesanan |
 | **📱 CUSTOMER** | Pemesanan mandiri meja, tracking pesanan live, loyalty points |
-
----
-
-## 📡 Dokumentasi API Utama
-
-Base URL: **`http://localhost:3001/api`**
-
-### Autentikasi & Pengguna
-- `POST /auth/login` — Autentikasi akun & penerbitan JWT
-- `GET /auth/profile` — Profil pengguna terautentikasi
-
-### Point of Sale & Pesanan
-- `GET /menus` — Mendapatkan daftar katalog menu aktif
-- `POST /orders` — Membuat pesanan baru (Kasir / Meja)
-- `PATCH /orders/:id/status` — Memperbarui status pesanan dapur
-
-### AI & Analisis Bisnis
-- `POST /ai-insights/analyze` — Menghasilkan evaluasi bisnis berbasis AI
-- `POST /ai/barista-chat` — Konsultasi menu cerdas dengan Barista AI
-
-### Pengaturan & Sistem
-- `GET /settings` — Mengambil seluruh preferensi toko & tema warkop
-- `POST /settings/broadcast-reload` — Menyiarkan sinyal force update ke seluruh perangkat aktif
-
----
-
-## ⚙️ Konfigurasi & Build (Internal)
-
-*Catatan: Bagian ini ditujukan untuk tim developer internal (Proprietary Use).*
-
-**1. Kloning & Instalasi**
-```bash
-git clone https://github.com/andra280502/Warkop-Myhink.git
-cd Warkop-Myhink
-# Frontend
-cd web-v3 && npm install
-# Backend
-cd ../server-v3 && npm install
-```
-
-**2. Setup Database (Prisma)**
-```bash
-cd server-v3
-npx prisma db push
-npx prisma generate
-```
-
-**3. Konfigurasi Environment (`.env` server-v3)**
-```env
-PORT=3001
-NODE_ENV=development
-DATABASE_URL="postgresql://user:pass@localhost:5432/warkop_myhink?schema=public"
-JWT_SECRET="rahasia_sistem"
-GEMINI_API_KEY="AIzaSy..."
-```
-
-**4. Build Produksi**
-```bash
-# Build frontend
-cd web-v3 && npm run build
-# Build backend
-cd ../server-v3 && npm run build
-```
 
 ---
 

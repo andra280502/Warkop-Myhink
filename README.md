@@ -1,7 +1,6 @@
 <div align="center">
   <!-- Header Animasi dengan Efek Twinkling -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Warkop%20Myhink%20V3&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Enterprise%20Smart%20POS%20%26%20Multi-AI%20Platform&descAlignY=75&descSize=22" width="100%" alt="Header Animasi" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Warkop%20Myhink%20V3&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Enterprise%20Smart%20POS%20%2B%20Multi-AI%20Platform&descAlignY=75&descSize=22" width="100%" alt="Header Animasi" />
   <!-- Teks Mengetik Otomatis (Typing SVG) -->
   <a href="https://warkop.myhink.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&height=50&lines=🚀+Sistem+POS+%26+ERP+Eksklusif;🤖+Autonomous+Multi-AI+Engine;🏬+Manajemen+Multi-Cabang+Cerdas;📱+Aplikasi+Mobile+Segera+Hadir!" alt="Typing SVG" />

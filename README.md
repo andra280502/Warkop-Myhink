@@ -131,7 +131,13 @@ Matriks ini saat ini memproses ratusan data transaksi per detik. Akses terminal 
 🔗 **[warkop.myhink.com](https://warkop.myhink.com)**
 
 ### 🎟️ Priority Access (Beta Waitlist)
-Untuk mitra B2B (Franchise) atau pihak eksekutif yang ingin merasakan simulasi *demo* dari ekosistem otonom Warkop Myhink V3, silakan mendaftarkan diri pada *Priority Queue* kami dengan mengirimkan sinyal ke email arsitek kami.
+Untuk mitra B2B (Franchise) atau pihak eksekutif yang ingin merasakan simulasi *demo* dari ekosistem otonom Warkop Myhink V3, silakan mendaftarkan diri pada *Priority Queue* kami. 
+
+Klik tombol di bawah ini. Format pengajuan akses (Subjek & Isi Pesan) berstandar korporat akan terisi secara otomatis ke aplikasi email Anda:
+
+<a href="mailto:andrasp@myhink.com?subject=Request%20Access%3A%20Warkop%20Myhink%20V3%20Demo%20(Waitlist)&body=Nama%20%2F%20Perusahaan%3A%20%5BIsi%20Nama%2FPerusahaan%5D%0APosisi%20%2F%20Jabatan%3A%20%5BIsi%20Jabatan%5D%0ATujuan%20Penggunaan%3A%20%5BMisal%3A%20Evaluasi%20Franchise%2C%20Kerja%20Sama%20B2B%2C%20Investasi%2C%20dll%5D%0A%0AYth.%20Andra%20Syailendra%20P.%20(CEO%20%26%20Lead%20Architect%20Myhink)%2C%0A%0AMelalui%20email%20ini%2C%20saya%20bermaksud%20menyampaikan%20ketertarikan%20untuk%20bergabung%20dalam%20Priority%20Queue%20guna%20mendapatkan%20akses%20simulasi%20demo%20dari%20sistem%20Warkop%20Myhink%20V3.%20Mohon%20informasi%20lebih%20lanjut%20mengenai%20prosedur%20dan%20ketersediaan%20akses%20tersebut.%0A%0AAtas%20perhatian%20dan%20kerja%20samanya%2C%20kami%20ucapkan%20terima%20kasih.">
+  <img src="https://img.shields.io/badge/JOIN_WAITLIST-REQUEST_DEMO_ACCESS-000000?style=for-the-badge&logo=minutemailer&logoColor=00D8FF" alt="Join Waitlist" />
+</a>
 
 ### 📱 Pocket Cyber-Terminal (Android APK)
 Fase stabilisasi algoritma untuk aplikasi *native* **Android** berada di tahap akhir (*Final QA*). Antarmuka pemesanan di ujung jari ini akan segera mengudara untuk menyempurnakan otonomi pelanggan.

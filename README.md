@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Cyberpunk/Futuristic Header with Twinkling Stars -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:040d14,100:091a28&height=250&section=header&text=PROJECT%20MYHINK%20V3&fontSize=75&fontColor=00D8FF&animation=twinkling&desc=Next-Century%20Autonomous%20POS%20%2B%20Neural%20Swarm-AI&descAlignY=75&descSize=20" width="100%" alt="Cyber Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:040d14,100:091a28&height=250&section=header&text=WARKOP%20MYHINK%20V3&fontSize=70&fontColor=00D8FF&animation=twinkling&desc=Next-Century%20Autonomous%20POS%20%2B%20Neural%20Swarm-AI&descAlignY=75&descSize=20" width="100%" alt="Cyber Header" />
 
   <br><br>
 
@@ -22,7 +22,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 > **⚠️ CLASSIFIED TEMPORAL ASSET (RESTRICTED IP)**  
-> Arsitektur neural, algoritma kecerdasan buatan, protokol *Over-The-Air (OTA)*, dan kode sumber ekosistem ini adalah **Artefak Kekayaan Intelektual** eksklusif milik **Myhink**. Dokumen ini hanyalah antarmuka informasi tingkat tinggi (*High-Level Interface*). Segala bentuk ekstraksi data, duplikasi, dan rekayasa balik (*reverse engineering*) atas anomali teknologi ini akan dilacak dan ditindak secara hukum korporasi.
+> Arsitektur neural, algoritma kecerdasan buatan, protokol *Over-The-Air (OTA)*, dan kode sumber ekosistem ini adalah **Artefak Kekayaan Intelektual** mutlak milik **Warkop Myhink**. Dokumen ini hanyalah antarmuka informasi tingkat tinggi (*High-Level Interface*). Segala bentuk ekstraksi data, duplikasi, dan rekayasa balik (*reverse engineering*) atas anomali teknologi ini akan dilacak dan ditindak secara tegas secara hukum.
 
 <!-- Holographic Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
@@ -31,7 +31,7 @@
 
 **Warkop Myhink V3** bukanlah sekadar sistem *Point of Sale* masa kini—ini adalah fragmen teknologi yang dirancang seolah ditarik dari abad ke-22. 
 
-Beroperasi jauh melampaui batasan sistem konvensional, platform ini digerakkan oleh matriks **Multi-AI Swarm**, pemrosesan instruksi berkecepatan cahaya, serta kapabilitas penyiaran pembaruan (*OTA Updates*) dengan satu sentuhan. Kehancuran jaringan internet lokal tidak lagi menjadi ancaman berkat protokol mutasi data secara *Offline-First*.
+Beroperasi jauh melampaui batasan sistem konvensional, platform ini digerakkan oleh matriks **Multi-AI Swarm**, pemrosesan instruksi berkecepatan cahaya, serta kapabilitas penyiaran pembaruan (*OTA Updates*) dengan satu sentuhan. Kehancuran jaringan internet lokal tidak lagi menjadi ancaman bagi Warkop Myhink berkat protokol mutasi data secara *Offline-First*.
 
 ---
 
@@ -52,7 +52,7 @@ Beroperasi jauh melampaui batasan sistem konvensional, platform ini digerakkan o
       <b>⚡ Zero-Space Deployment (One-Click OTA)</b><br>
       Evolusi sistem tanpa jeda.
       <ul>
-        <li><b>Force Broadcast Protocol:</b> Cukup satu klik dari panel otoritas, sistem akan memancarkan gelombang pembaruan ke seluruh terminal kasir dan antarmuka pelanggan di seluruh cabang.</li>
+        <li><b>Force Broadcast Protocol:</b> Cukup satu klik dari panel otoritas, sistem akan memancarkan gelombang pembaruan ke seluruh terminal kasir dan antarmuka pelanggan di seluruh cabang Warkop Myhink.</li>
         <li><b>Zero-Downtime:</b> Pembaruan algoritma dan UI disuntikkan secara otomatis tanpa perlu me-<i>restart</i> sistem atau mengganggu lalu lintas transaksi yang sedang berjalan.</li>
       </ul>
     </td>
@@ -79,17 +79,17 @@ Beroperasi jauh melampaui batasan sistem konvensional, platform ini digerakkan o
 
 Akses menuju matriks data dikendalikan oleh hierarki *Role-Based Access Control* (RBAC) yang disegel dengan enkripsi kriptografis tingkat tinggi:
 
-- **[ L1 ] THE ARCHITECT (Owner):** Akses absolut ke seluruh dimensi sistem. Menentukan matriks AI yang aktif, memicu *One-Click OTA Updates*, dan mengonfigurasi realitas UI melalui kustomisasi tanpa kode (*no-code environment*).
-- **[ L2 ] COMMANDER (Manager):** Pemegang kendali logistik persediaan, modifikasi hologram katalog, dan ekstraksi data performa cabang.
-- **[ L3 ] OPERATIVE (Cashier):** Pengendali gerbang transaksi utama. Memproses arus kas, validasi digital (QRIS), dan kendali ruang meja.
-- **[ L4 ] SYNTHESIZER (Barista / Chef):** Interaksi eksklusif dengan panel monitor KDS untuk manajemen perakitan produk di area dapur.
+- **[ L1 ] THE ARCHITECT (Owner):** Akses absolut ke seluruh dimensi sistem Warkop Myhink. Menentukan matriks AI yang aktif, memicu *One-Click OTA Updates*, dan mengonfigurasi realitas UI melalui kustomisasi tanpa kode (*no-code environment*).
+- **[ L2 ] COMMANDER (Manager):** Pemegang kendali logistik persediaan warkop, modifikasi hologram katalog, dan ekstraksi data performa cabang.
+- **[ L3 ] OPERATIVE (Cashier):** Pengendali gerbang transaksi utama. Memproses arus kas, validasi digital (QRIS), dan kendali ruang meja pelanggan.
+- **[ L4 ] SYNTHESIZER (Barista / Chef):** Interaksi eksklusif dengan panel monitor KDS untuk manajemen perakitan pesanan di area produksi/bar.
 - **[ L5 ] CITIZEN (Customer):** Akses jaring publik untuk pemesanan nirkontak via QR, pelacakan pesanan visual, dan eksekusi kode loyalitas.
 
 ---
 
 ## 🖥️ Proyeksi Antarmuka (Holographic UI Render)
 
-*Transmisi visual antarmuka sistem (Glassmorphism UI) yang direkam langsung dari ekosistem produksi yang sedang berjalan.*
+*Transmisi visual antarmuka sistem (Glassmorphism UI) yang direkam langsung dari ekosistem produksi Warkop Myhink yang sedang berjalan.*
 
 <div align="center">
   <table>
@@ -120,7 +120,7 @@ Akses menuju matriks data dikendalikan oleh hierarki *Role-Based Access Control*
 
 ## 🛰️ Gerbang Publik & Transmisi Digital
 
-Matriks ini saat ini memproses ratusan data transaksi per detik. Anda dapat mengakses terminal publik (katalog digital dan portal pelanggan) melalui koordinat berikut:
+Matriks ini saat ini memproses ratusan data transaksi per detik. Anda dapat mengakses terminal publik (katalog digital dan portal pelanggan Warkop Myhink) melalui koordinat berikut:
 
 🔗 **[warkop.myhink.com](https://warkop.myhink.com)**
 
@@ -131,7 +131,7 @@ Fase stabilisasi algoritma untuk aplikasi *native* **Android** berada di tahap a
 
 ## ✉️ Saluran Komunikasi Arsitek (System Inquiries)
 
-Struktur neural Warkop Myhink dirakit secara eksklusif oleh *in-house engineering*. Untuk negosiasi aliansi B2B, diskusi arsitektur *cybernetic*, atau komunikasi korporat lainnya, transmisi dapat dikirimkan kepada Arsitek Utama sistem ini:
+Struktur neural Warkop Myhink V3 dirakit secara eksklusif oleh *in-house engineering*. Untuk negosiasi aliansi B2B, diskusi arsitektur *cybernetic*, atau komunikasi teknis lainnya, transmisi dapat dikirimkan kepada Arsitek Utama sistem ini:
 
 <p align="center">
   <!-- Tombol Corporate Email -->
@@ -147,5 +147,5 @@ Struktur neural Warkop Myhink dirakit secara eksklusif oleh *in-house engineerin
 <br>
 
 <div align="center">
-  <p><b>© 2026 Myhink Corporation. Seluruh kode sumber, arsitektur, dan protokol dilindungi hukum.</b></p>
+  <p><b>© 2026 Warkop Myhink. Seluruh kode sumber, arsitektur, dan protokol dilindungi undang-undang.</b></p>
 </div>

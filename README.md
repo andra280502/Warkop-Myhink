@@ -1,9 +1,10 @@
 <div align="center">
-  <!-- Header Animasi dengan Efek Twinkling -->
+  <!-- Header Animasi dengan Efek Twinkling (Error XML Fixed: Menggunakan %2B sebagai pengganti &) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Warkop%20Myhink%20V3&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Enterprise%20Smart%20POS%20%2B%20Multi-AI%20Platform&descAlignY=75&descSize=22" width="100%" alt="Header Animasi" />
+
   <!-- Teks Mengetik Otomatis (Typing SVG) -->
   <a href="https://warkop.myhink.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&height=50&lines=🚀+Sistem+POS+%26+ERP+Eksklusif;🤖+Autonomous+Multi-AI+Engine;🏬+Manajemen+Multi-Cabang+Cerdas;📱+Aplikasi+Mobile+Segera+Hadir!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&height=50&lines=🚀+Sistem+POS+%2B+ERP+Eksklusif;🤖+Autonomous+Multi-AI+Engine;🏬+Manajemen+Multi-Cabang+Cerdas;📱+Aplikasi+Mobile+Segera+Hadir!" alt="Typing SVG" />
   </a>
 
   <!-- Tombol Akses Cepat & Status -->
@@ -56,7 +57,7 @@ Dirancang eksklusif untuk modernisasi F&B Warkop Myhink, platform ini ditenagai 
     </td>
     <td width="50%">
       <h3>⚡ Smart POS & KDS</h3>
-      Eksekusi transaksi tanpa *delay*:
+      Eksekusi transaksi tanpa <i>delay</i>:
       <ul>
         <li><b>POS Ultra-Cepat:</b> Kalkulasi otomatis dengan dukungan berbagai metode pembayaran QRIS.</li>
         <li><b>Kitchen Display (KDS):</b> Sinkronisasi pesanan dapur <i>real-time</i> begitu kasir menekan tombol bayar.</li>
@@ -67,13 +68,13 @@ Dirancang eksklusif untuk modernisasi F&B Warkop Myhink, platform ini ditenagai 
     <td width="50%">
       <h3>🎨 Workspace Customizer</h3>
       <ul>
-        <li>Kustomisasi tema warna, logo, dan identitas struk thermal secara dinamis tanpa menyentuh kode program.</li>
+        <li>Kustomisasi tema warna, logo, dan identitas struk thermal secara dinamis tanpa perlu menyentuh baris kode program.</li>
       </ul>
     </td>
     <td width="50%">
       <h3>📶 Offline Resiliency (PWA)</h3>
       <ul>
-        <li>Sistem kasir tetap menampung transaksi saat internet putus, dan menyinkronkannya kembali saat jaringan stabil.</li>
+        <li>Sistem kasir dirancang untuk tetap menampung transaksi saat internet terputus, dan otomatis menyinkronkannya kembali ke <i>cloud</i> saat jaringan stabil.</li>
       </ul>
     </td>
   </tr>
@@ -83,13 +84,13 @@ Dirancang eksklusif untuk modernisasi F&B Warkop Myhink, platform ini ditenagai 
 
 ## 🔐 Keamanan & Hak Akses (Role-Based)
 
-Infrastruktur ini dilengkapi sistem keamanan berlapis dengan pembatasan hak akses yang presisi:
+Infrastruktur ini dilengkapi sistem keamanan berlapis dengan pembatasan hak akses operasional yang presisi:
 
 - 👑 **OWNER:** Kendali mutlak, wawasan AI tingkat lanjut, laporan multi-cabang, & kustomisasi platform.
-- 👔 **MANAGER:** Pengelolaan stok bahan baku, manajemen katalog menu, & evaluasi shift.
-- 💼 **CASHIER:** Operasional POS, penerimaan pembayaran, & manajemen antrean meja.
-- ☕ **BARISTA/CHEF:** Akses eksklusif layar Kitchen Display System (KDS).
-- 📱 **CUSTOMER:** Pemesanan mandiri (QR Order) & pelacakan pesanan <i>live</i>.
+- 👔 **MANAGER:** Pengelolaan stok bahan baku, manajemen katalog menu, & evaluasi shift staf.
+- 💼 **CASHIER:** Operasional layar POS, penerimaan pembayaran, & manajemen status meja.
+- ☕ **BARISTA / CHEF:** Akses eksklusif antrean layar *Kitchen Display System* (KDS).
+- 📱 **CUSTOMER:** Pemesanan mandiri melalui QR meja & pelacakan status pesanan secara *live*.
 
 ---
 
@@ -104,7 +105,7 @@ Infrastruktur ini dilengkapi sistem keamanan berlapis dengan pembatasan hak akse
       <td align="center"><b>Kitchen Display System (KDS)</b></td>
     </tr>
     <tr>
-      <!-- GANTI LINK PLACEHOLDER DI BAWAH INI DENGAN LINK FOTO/SCREENSHOT ASLIMU -->
+      <!-- GANTI LINK PLACEHOLDER DI BAWAH INI DENGAN LINK FOTO ASLIMU -->
       <td><img src="https://via.placeholder.com/450x250/1f2937/F59E0B?text=FOTO+POS+KASIR+DISINI" alt="Dashboard POS" width="450"></td>
       <td><img src="https://via.placeholder.com/450x250/1f2937/F59E0B?text=FOTO+DAPUR+KDS+DISINI" alt="KDS" width="450"></td>
     </tr>
@@ -113,15 +114,14 @@ Infrastruktur ini dilengkapi sistem keamanan berlapis dengan pembatasan hak akse
       <td align="center"><b>Customer Self-Ordering QR</b></td>
     </tr>
     <tr>
-      <!-- GANTI LINK PLACEHOLDER DI BAWAH INI DENGAN LINK FOTO/SCREENSHOT ASLIMU -->
+      <!-- GANTI LINK PLACEHOLDER DI BAWAH INI DENGAN LINK FOTO ASLIMU -->
       <td><img src="https://via.placeholder.com/450x250/1f2937/F59E0B?text=FOTO+ANALITIK+AI+DISINI" alt="ERP" width="450"></td>
       <td><img src="https://via.placeholder.com/450x250/1f2937/F59E0B?text=FOTO+TAMPILAN+HP+PELANGGAN" alt="Mobile View" width="450"></td>
     </tr>
   </table>
 </div>
 
-<!-- Animasi Garis Pemisah -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 ## 🚀 Akses Platform
 
@@ -131,12 +131,33 @@ Bagi pengunjung dan pelanggan setia yang ingin melihat menu digital atau memesan
 
 ### 📱 Rilis Aplikasi Mobile (Segera Hadir!)
 <img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/174/174836.png" alt="Android Icon">
-Kami sedang menyiapkan pengalaman pemesanan yang lebih cepat! Versi aplikasi <b>Android (APK)</b> Warkop Myhink saat ini dalam tahap penyempurnaan akhir (Final Build). Tautan unduhan resmi akan dipublikasikan di halaman ini setelah peluncuran.
+Kami sedang menyiapkan pengalaman pemesanan yang jauh lebih instan! Versi aplikasi <b>Android (APK)</b> Warkop Myhink saat ini dalam tahap penyempurnaan akhir. Tautan unduhan resmi akan dipublikasikan di halaman ini dan di website kami setelah peluncuran.
 
 <br><br>
 
 ---
+
+## 📫 Kontak & Kerja Sama
+
+Tertarik dengan infrastruktur sistem ini, memiliki penawaran kerja sama, atau pertanyaan teknis terkait bisnis Warkop Myhink? Jangan ragu untuk menghubungi tim pengembang (Developer/Owner) melalui jalur berikut:
+
+<p align="center">
+  <!-- Tombol Email -->
+  <a href="mailto:andrasyailendra280502@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hubungi_Kami-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
+  </a>
+  <!-- Tombol GitHub -->
+  <a href="https://github.com/andra280502">
+    <img src="https://img.shields.io/badge/Developer-@andra280502-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <!-- Tombol Web -->
+  <a href="https://warkop.myhink.com">
+    <img src="https://img.shields.io/badge/Web-warkop.myhink.com-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website URL" />
+  </a>
+</p>
+
+---
 <div align="center">
   <b>© 2026 Warkop Myhink. Seluruh hak cipta dilindungi undang-undang.</b><br>
-  <i>Dikembangkan secara eksklusif oleh <a href="https://github.com/andra280502">Syailendra Andra P.</a></i>
+  <i>Infrastruktur eksklusif dikembangkan oleh <a href="https://github.com/andra280502">Syailendra Andra P.</a></i>
 </div>

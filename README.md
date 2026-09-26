@@ -9,12 +9,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=21&pause=1500&color=00D8FF&center=true&vCenter=true&width=850&height=40&lines=⏳+Reverse-Engineered+from+the+Future;🧠+Synaptic+Multi-LLM+Swarm+(Gemini,+Claude,+DeepSeek);⚡+Quantum-Speed+Zero-Downtime+OTA+Deployments;🌐+A+Glimpse+into+22nd-Century+F%26B+Infrastructure" alt="Temporal Summary" />
   </a>
 
-  <!-- Cybernetic Status Badges -->
+  <!-- Cybernetic Status Badges & Visitor Telemetry -->
   <p align="center">
     <img src="https://img.shields.io/badge/Sync-Temporal_Node_Active-000000?style=for-the-badge&logo=vercel&logoColor=00D8FF" alt="Status"/>
     <img src="https://img.shields.io/badge/Core-Neural_Swarm_AI-000000?style=for-the-badge&logo=databricks&logoColor=00D8FF" alt="AI Core" />
     <img src="https://img.shields.io/badge/Deploy-Zero_Space_OTA-000000?style=for-the-badge&logo=githubactions&logoColor=00D8FF" alt="Updates" />
-    <img src="https://img.shields.io/badge/Stack-Quantum_React_State-000000?style=for-the-badge&logo=react&logoColor=00D8FF" alt="Tech Stack" />
+    <!-- Visitor Counter (Cyber-Radar) -->
+    <img src="https://komarev.com/ghpvc/?username=andra280502-warkopmyhink&label=CYBER-RADAR%20PING&color=00D8FF&style=for-the-badge" alt="Visitor Radar" />
   </p>
 </div>
 
@@ -45,15 +46,15 @@ Beroperasi jauh melampaui batasan sistem konvensional, platform ini digerakkan o
       <ul>
         <li><b>Gemini & Claude:</b> Pemrosesan kognitif untuk proyeksi profit, analisis <i>deadstock</i>, dan rekomendasi menu pelanggan (<i>Cyber-Barista</i>).</li>
         <li><b>DeepSeek & OpenAI:</b> <i>Deep Reasoning</i> tingkat lanjut untuk komputasi finansial rasional.</li>
-        <li><b>Local LLM (Ollama):</b> Pemrosesan data intelijen di dalam <i>server</i> lokal secara absolut tanpa intervensi pihak ketiga.</li>
+        <li><b>Local LLM (Ollama):</b> Pemrosesan intelijen di dalam <i>server</i> lokal secara absolut tanpa intervensi pihak luar.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <b>⚡ Zero-Space Deployment (One-Click OTA)</b><br>
       Evolusi sistem tanpa jeda.
       <ul>
-        <li><b>Force Broadcast Protocol:</b> Cukup satu klik dari panel otoritas, sistem akan memancarkan gelombang pembaruan ke seluruh terminal kasir dan antarmuka pelanggan di seluruh cabang Warkop Myhink.</li>
-        <li><b>Zero-Downtime:</b> Pembaruan algoritma dan UI disuntikkan secara otomatis tanpa perlu me-<i>restart</i> sistem atau mengganggu lalu lintas transaksi yang sedang berjalan.</li>
+        <li><b>Force Broadcast Protocol:</b> Cukup satu klik dari panel otoritas, sistem memancarkan gelombang pembaruan ke seluruh terminal kasir dan antarmuka pelanggan di seluruh cabang Warkop Myhink.</li>
+        <li><b>Zero-Downtime:</b> Pembaruan algoritma disuntikkan secara otomatis tanpa mengganggu lalu lintas transaksi yang sedang berjalan.</li>
       </ul>
     </td>
   </tr>
@@ -61,13 +62,13 @@ Beroperasi jauh melampaui batasan sistem konvensional, platform ini digerakkan o
     <td width="50%" valign="top">
       <b>🚀 Frictionless Quantum KDS & POS</b><br>
       <ul>
-        <li>Terminal kasir bereaksi tanpa latensi. Melalui terowongan data <i>WebSocket</i>, setiap transaksi meledak langsung ke layar <i>Kitchen Display System</i> (KDS) dalam ukuran milidetik.</li>
+        <li>Terminal kasir bereaksi tanpa latensi. Melalui terowongan <i>WebSocket</i>, setiap transaksi meledak langsung ke layar <i>Kitchen Display System</i> (KDS) dalam hitungan milidetik.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <b>📶 Temporal Data Vault (Offline-First)</b><br>
       <ul>
-        <li>Ketika konektivitas bumi terputus, sistem mengisolasi data ke dalam kapsul waktu (<i>Mutation Queue</i>). Begitu jaringan pulih, data otomatis berinjeksi ke <i>cloud database</i> secara sinkron.</li>
+        <li>Ketika konektivitas bumi terputus, sistem mengisolasi data ke kapsul waktu (<i>Mutation Queue</i>). Begitu jaringan pulih, data otomatis berinjeksi ke <i>cloud database</i> secara sinkron.</li>
       </ul>
     </td>
   </tr>
@@ -75,21 +76,26 @@ Beroperasi jauh melampaui batasan sistem konvensional, platform ini digerakkan o
 
 ---
 
-## 🔐 Protokol Keamanan & Akses Neural (IAM)
+## 🔮 Temporal Roadmap (Wishlist & Suggestions)
 
-Akses menuju matriks data dikendalikan oleh hierarki *Role-Based Access Control* (RBAC) yang disegel dengan enkripsi kriptografis tingkat tinggi:
+Kami terus mengkalibrasi matriks sistem ini. Berikut adalah proyeksi arsitektur masa depan dan saluran transmisi ide:
 
-- **[ L1 ] THE ARCHITECT (Owner):** Akses absolut ke seluruh dimensi sistem Warkop Myhink. Menentukan matriks AI yang aktif, memicu *One-Click OTA Updates*, dan mengonfigurasi realitas UI melalui kustomisasi tanpa kode (*no-code environment*).
-- **[ L2 ] COMMANDER (Manager):** Pemegang kendali logistik persediaan warkop, modifikasi hologram katalog, dan ekstraksi data performa cabang.
-- **[ L3 ] OPERATIVE (Cashier):** Pengendali gerbang transaksi utama. Memproses arus kas, validasi digital (QRIS), dan kendali ruang meja pelanggan.
-- **[ L4 ] SYNTHESIZER (Barista / Chef):** Interaksi eksklusif dengan panel monitor KDS untuk manajemen perakitan pesanan di area produksi/bar.
-- **[ L5 ] CITIZEN (Customer):** Akses jaring publik untuk pemesanan nirkontak via QR, pelacakan pesanan visual, dan eksekusi kode loyalitas.
+### 🌟 Neural Wishlist (Protokol Mendatang)
+Algoritma yang saat ini sedang dalam antrean sintesis (*Development Pipeline*):
+- [x] **Web Bluetooth ESC/POS** - Pencetakan nirkontak via *Thermal Printer*. *(Deployed)*
+- [x] **Dynamic OTA Updates** - *Force reload* terminal kasir dalam satu sentuhan. *(Deployed)*
+- [ ] **AI Dynamic Pricing** - Penyesuaian harga menu instan berbasis analisis cuaca dan keramaian *real-time*. *(Pending)*
+- [ ] **Biometric Login** - Akses kasir menggunakan pemindaian sidik jari/wajah tingkat perangkat keras. *(Pending)*
+- [ ] **AR KDS (Augmented Reality)** - Proyeksi antrean pesanan dapur secara visual holografis untuk Barista. *(Research Phase)*
+
+### 💡 Suggestion Node (Transmisi Saran)
+Apakah Anda memiliki ide fitur futuristik atau menemukan anomali visual (*bug*) di dalam matriks? Kirimkan transmisi saran Anda ke **[Kotak Saran Enkripsi Kami](mailto:andrasp@myhink.com?subject=Warkop%20Myhink%20V3%20-%20Suggestion%20Node)** untuk dievaluasi oleh *Lead Architect*.
 
 ---
 
 ## 🖥️ Proyeksi Antarmuka (Holographic UI Render)
 
-*Transmisi visual antarmuka sistem (Glassmorphism UI) yang direkam langsung dari ekosistem produksi Warkop Myhink yang sedang berjalan.*
+*Transmisi visual antarmuka sistem (Glassmorphism UI) yang direkam langsung dari ekosistem produksi Warkop Myhink.*
 
 <div align="center">
   <table>
@@ -118,20 +124,23 @@ Akses menuju matriks data dikendalikan oleh hierarki *Role-Based Access Control*
 
 ---
 
-## 🛰️ Gerbang Publik & Transmisi Digital
+## 🛰️ Gerbang Publik & Akses Prioritas (Waitlist)
 
-Matriks ini saat ini memproses ratusan data transaksi per detik. Anda dapat mengakses terminal publik (katalog digital dan portal pelanggan Warkop Myhink) melalui koordinat berikut:
+Matriks ini saat ini memproses ratusan data transaksi per detik. Akses terminal publik (katalog digital dan portal pelanggan Warkop Myhink) dapat ditinjau melalui koordinat berikut:
 
 🔗 **[warkop.myhink.com](https://warkop.myhink.com)**
 
+### 🎟️ Priority Access (Beta Waitlist)
+Untuk mitra B2B (Franchise) atau pihak eksekutif yang ingin merasakan simulasi *demo* dari ekosistem otonom Warkop Myhink V3, silakan mendaftarkan diri pada *Priority Queue* kami dengan mengirimkan sinyal ke email arsitek kami.
+
 ### 📱 Pocket Cyber-Terminal (Android APK)
-Fase stabilisasi algoritma untuk aplikasi *native* **Android** berada di tahap akhir (*Final QA*). Antarmuka pemesanan di ujung jari ini akan segera mengudara untuk menyempurnakan otonomi pelanggan di masa depan.
+Fase stabilisasi algoritma untuk aplikasi *native* **Android** berada di tahap akhir (*Final QA*). Antarmuka pemesanan di ujung jari ini akan segera mengudara untuk menyempurnakan otonomi pelanggan.
 
 ---
 
 ## ✉️ Saluran Komunikasi Arsitek (System Inquiries)
 
-Struktur neural Warkop Myhink V3 dirakit secara eksklusif oleh *in-house engineering*. Untuk negosiasi aliansi B2B, diskusi arsitektur *cybernetic*, atau komunikasi teknis lainnya, transmisi dapat dikirimkan kepada Arsitek Utama sistem ini:
+Struktur neural Warkop Myhink V3 dirakit secara eksklusif oleh *in-house engineering*. Untuk negosiasi aliansi B2B, diskusi arsitektur *cybernetic*, atau transmisi saran (*suggestions*), silakan kirimkan sinyal kepada Arsitek Utama sistem ini:
 
 <p align="center">
   <!-- Tombol Corporate Email -->
